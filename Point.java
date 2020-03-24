@@ -1,7 +1,22 @@
+class Point {
+	String id
+	double x,y;
+        String s = "blue"
 
-a	1	2
-b	1	2
-c	1	2
-d	1	2
-e	1	2
+	//TODO add new variable
 
+	//TODO constructor
+
+	//TODO setters and getters
+
+	public void move (char xDirection, char yDirection) {
+		//TODO
+	}
+
+	public void draw () {
+		//TODO
+	}
+
+
+
+}
